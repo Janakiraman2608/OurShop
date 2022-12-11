@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/OurShop/static/css/main.795281f8.css",
+    "main.css": "/OurShop/static/css/main.91e6fd33.css",
     "main.js": "/OurShop/static/js/main.132472cc.js",
     "static/media/saree1.jpg": "/OurShop/static/media/saree1.d0e30bee05c6b838155b.jpg",
     "static/media/logo.png": "/OurShop/static/media/logo.9804f4b7fb5990087a4d.png",
@@ -8,11 +8,11 @@
     "static/media/revicons.ttf": "/OurShop/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/OurShop/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/OurShop/index.html",
-    "main.795281f8.css.map": "/OurShop/static/css/main.795281f8.css.map",
+    "main.91e6fd33.css.map": "/OurShop/static/css/main.91e6fd33.css.map",
     "main.132472cc.js.map": "/OurShop/static/js/main.132472cc.js.map"
   },
   "entrypoints": [
-    "static/css/main.795281f8.css",
+    "static/css/main.91e6fd33.css",
     "static/js/main.132472cc.js"
   ]
 }
