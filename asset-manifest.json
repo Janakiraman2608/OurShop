@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/OurShop/static/css/main.613e94a0.css",
-    "main.js": "/OurShop/static/js/main.07fe5279.js",
+    "main.css": "/OurShop/static/css/main.49d0c162.css",
+    "main.js": "/OurShop/static/js/main.5511a724.js",
     "static/media/logo.png": "/OurShop/static/media/logo.9804f4b7fb5990087a4d.png",
     "static/media/revicons.eot": "/OurShop/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/OurShop/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/OurShop/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/OurShop/index.html",
-    "main.613e94a0.css.map": "/OurShop/static/css/main.613e94a0.css.map",
-    "main.07fe5279.js.map": "/OurShop/static/js/main.07fe5279.js.map"
+    "main.49d0c162.css.map": "/OurShop/static/css/main.49d0c162.css.map",
+    "main.5511a724.js.map": "/OurShop/static/js/main.5511a724.js.map"
   },
   "entrypoints": [
-    "static/css/main.613e94a0.css",
-    "static/js/main.07fe5279.js"
+    "static/css/main.49d0c162.css",
+    "static/js/main.5511a724.js"
   ]
 }
